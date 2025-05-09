@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @gabrieelpds
 - 👀 I’m interested in ficar rico 
 - 🌱 I’m currently learning progamaçao
-- - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 gabrieelpds/gabrieelpds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
